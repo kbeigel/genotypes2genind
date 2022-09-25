@@ -1,0 +1,2 @@
+## Description
+R script for an input file of a genotype matrix with chromosome loci as row names and sample names as column headers. The text file is stored as a data frame and transposed. Column names are edited to remove characters that the df2genind function does not allow.
